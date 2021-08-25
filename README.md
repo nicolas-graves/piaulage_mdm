@@ -16,8 +16,8 @@ Il faut que les programmes suivants soient installés :
 
 Tout va se faire dans un dossier projet, à créer.
 
-```
+```bash
 virtualenv .
 source bin/activate
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib python-dotenv
-``̀`
+```
