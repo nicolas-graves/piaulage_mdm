@@ -1,4 +1,3 @@
-
 # Envoi de mails automatisés pour le piaulage de la maison des mines
 
 ## Installation
@@ -20,5 +19,5 @@ Tout va se faire dans un dossier projet, à créer.
 ```
 virtualenv .
 source bin/activate
-  pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib python-dotenv
 ``̀`
